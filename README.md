@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yunis Ibrahimov</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yunis99&label=Profile%20views&color=0e75b6&style=flat" alt="yunis99" /> </p>
-<h3>About Me: </h3>
+
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=yunis99&" alt="yunis99" /></p>
+
+<h3>🧑‍💻About Me: </h3>
 <div style="margin-left: 80px;">
   <ul>
     <li>I am a motivated and detail-oriented Computer Engineering student with a strong foundation in Data Science, Machine Learning and CyberSecurity.</li>
@@ -56,9 +59,10 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
 
-
-
  </p>
+
+
+
 
 
 
